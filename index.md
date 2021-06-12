@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+[Лабораторная работа 1](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР1.pdf)
 
-You can use the [editor on GitHub](https://github.com/VexelB/vichmat2year/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Лабораторная работа 2](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР2.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Лабораторная работа 3](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР3.pdf)
 
-### Markdown
+[Лабораторная работа 4](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР4.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Лабораторная работа 5](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР5.pdf)
 
-```markdown
-Syntax highlighted code block
+[Лабораторная работа 6](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР6.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+[Лабораторная работа 7](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР7.pdf)
 
-- Bulleted
-- List
+[Лабораторная работа 8](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР8.pdf)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VexelB/vichmat2year/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Лабораторная работа 9](https://github.com/VexelB/vichmat2year/blob/main/Войтин%20ИВТ%20ЛР9.pdf)
